@@ -1,0 +1,33 @@
+.Nested_Properties{
+  border: 1px solid black;
+  height: 99.7vh;
+  background: aquamarine;
+}
+.properties{
+width: 300px;
+margin-left: 550px;
+margin-top: 180px;
+background: wheat;
+text-align: center;
+padding-top: 1px;
+padding-bottom: 1px;
+}
+.properties h1{
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.properties:hover{
+  background: rgb(255, 255, 255);
+  box-shadow: 10px 10px 10px 10px rgb(35, 15, 124);
+}
+.properties:hover h1{
+  color: rgb(141, 7, 18);
+}
+.toggle-btn{
+ margin-left: 85rem;
+ margin-top: 3rem;
+ background-color: burlywood;
+ border-radius: 60px;
+ width: 100px;
+ height: 2rem;
+}
